@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "https://github.com/Moon-Land/json-server.git"
   },
   "description": ""
 }
